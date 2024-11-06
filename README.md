@@ -32,7 +32,7 @@ Installation
 
     Clone the Repository
 
-git clone https://github.com/yourusername/jacks-trombones.git
+git clone https://github.com/JackSawyerWATX/Trombones.git
 
 Navigate to the Project Directory
 
